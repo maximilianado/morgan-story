@@ -1,0 +1,14 @@
+package objects;
+
+public enum Oil {
+	ROSMARINÖL, 
+	ROSENÖL,
+	MANDELÖL,
+	LAVENDELÖL,
+	MOSCHUSÖL,
+	SANDELÖL,
+	MAIGLÖCKCHEN,
+	JASMINÖL,
+	OLIVENÖL,
+	VOODOOSCHUTZÖL;
+}
